@@ -29,6 +29,13 @@ Let's save this script to a file.
 
 and then exit `jshell`. Use `/exit` or `Ctrl-D`.
 
+**In the steps below, you will be using `jshell` to run Java code.**
+
+**Start training your brain by TYPING the code into `jshell`. DO NOT COPY AND PASTE. **
+
+CopyPasta is the enemy of learning. It's cheating yourself. And at this point, it's cheating in this course.
+
+
 ### Using `jshell` to run a simple Java program
 
 Let's use a simple while loop to print out the numbers from 1 to 10.
