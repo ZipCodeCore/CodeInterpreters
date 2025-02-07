@@ -1,6 +1,8 @@
 # JavaSmall
 simple java exercises using jshell
 
+`fork` this repository and `clone` it to your local machine.
+
 ## Lab Brief
 
 Learn to use `jshell` to run Java code.
