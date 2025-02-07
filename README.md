@@ -18,6 +18,16 @@ Learn to use `jshell` to run Java code.
 7. Type `x`
 8. Type `x = x + 10`
 9. Type `x`
+10. Type `println(String s) { System.out.println(s); }`
+11. Type `println("your name here!");`
+
+Let's save this script to a file.
+
+```java
+/save helloWorld.java
+```
+
+and then exit `jshell`. Use `/exit` or `Ctrl-D`.
 
 ### Using `jshell` to run a simple Java program
 
