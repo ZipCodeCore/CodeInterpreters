@@ -1,5 +1,7 @@
 # Java Small
 
+`fork` this repository and `clone` it to your local machine.
+
 This repository contains small Java projects and guides for beginners.
 
 There are three markdown files that will lead you thru a series of
