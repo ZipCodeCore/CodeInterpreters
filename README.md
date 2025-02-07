@@ -29,6 +29,8 @@ Let's save this script to a file.
 
 and then exit `jshell`. Use `/exit` or `Ctrl-D`.
 
+## Section 0
+
 **In the steps below, you will be using `jshell` to run Java code.**
 
 **Start training your brain by TYPING the code into `jshell`. DO NOT COPY AND PASTE.**
@@ -40,7 +42,6 @@ and then exit `jshell`. Use `/exit` or `Ctrl-D`.
 
 Start `jshell` and type the following code:
 
-```java
 Let's use a simple while loop to print out the numbers from 1 to 10.
 
 ```java
